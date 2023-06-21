@@ -1,6 +1,6 @@
 project_name: "hns_domain_a_hub"
 
 constant: CONNECTION_NAME {
-  value: "bq-lookerplus"
+  value: "default-bq-connection"
   export: override_required
 }
